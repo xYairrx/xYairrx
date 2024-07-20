@@ -18,7 +18,7 @@ Soy un estudiante de la Licenciatura en Informática, en proceso de volverme un 
 <br/>  
 
 
-## My Skill Set  
+## Mis conocimientos  
 <table><tr><td valign="top" width="50%">
 
 
@@ -50,7 +50,7 @@ Soy un estudiante de la Licenciatura en Informática, en proceso de volverme un 
 <br/>  
 
 
-## Connect with me  
+## Contáctame  
 <div align="center">
 <a href="https://github.com/xYairrx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -73,13 +73,13 @@ Soy un estudiante de la Licenciatura en Informática, en proceso de volverme un 
 <br/>  
 
 
-## Github Stats  
+## Estadísticas de GitHub  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xyairrx&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+## Blogs recientes  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
@@ -107,4 +107,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
