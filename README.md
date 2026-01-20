@@ -6,17 +6,18 @@
 ### <div align="center">Hola, soy Yair!</div>  
   
 
-Soy Desarrollador de Software Junior con experiencia en el desarrollo de aplicaciones web, móviles y de escritorio. Actualmente, soy estudiante del noveno semestre de la Licenciatura en Informática en la Universidad Mexiquense del Bicentenario, donde adquirí una sólida formación en desarrollo de software y una comprensión profunda de los principios de programación. No obstante, me considero una persona autodidacta, apasionada por la tecnología y en constante búsqueda de nuevos conocimientos. 
+Desarrollador de software enfocado en construir productos reales en producción.
 
-Parte de mi experiencia la adquirí durante mis prácticas profesionales en CheckEat México, una startup que participó en Shark Tank México. Ahí tuve la oportunidad de trabajar en entornos reales, donde aprendí sobre CI/CD (Integración y Despliegue Continuo), el uso de SCRUM para la gestión ágil de proyectos y la aplicación del patrón de diseño MVC en el desarrollo de software.
+Actualmente trabajo en Teckio ERP, un sistema para constructoras, arquitectos e ingenieros civiles, donde desarrollo nuevas funcionalidades y resuelvo hotfixes en un entorno productivo.
+He trabajado en startups y empresas reales, participando en el desarrollo de aplicaciones web, móviles y de escritorio, con experiencia en flujos de CI/CD y trabajo ágil.
+Además, desarrollo de forma independiente un SaaS para la gestión integral de ligas deportivas (temporadas, equipos, jugadores, contratos y anuncios), proyecto que estoy preparando para su comercialización.
+Me interesa seguir creciendo en roles donde pueda construir producto, asumir responsabilidad técnica y generar impacto real.
   
 <br/>  
 
 
 ## Mis conocimientos  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
