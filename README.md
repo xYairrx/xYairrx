@@ -3,8 +3,8 @@
 Desarrollador de software trabajando en sistemas en producción.
 
 - Actualmente desarrollo funcionalidades y soluciono incidencias en **Teckio ERP** (software para la industria de la construcción).
-- Experiencia en desarrollo de aplicaciones web, móviles y de escritorio.
-- Desarrollo de un **SaaS para la gestión de ligas deportivas** como proyecto personal a largo plazo.
+- Tengo experiencia en desarrollo de aplicaciones web, móviles y de escritorio.
+- Estoy desarrollando un **SaaS para la gestión de ligas deportivas** como proyecto personal a largo plazo.
 
 ---
 
