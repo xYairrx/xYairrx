@@ -24,3 +24,4 @@ Desarrollador de software trabajando en sistemas en producción.
 ### 🔗 Enlaces
 - [LinkedIn](https://linkedin.com/in/yaireag)
 - [GitHub](https://github.com/xYairrx)
+- [Portafolio](https://yairalmanza.vercel.app)
