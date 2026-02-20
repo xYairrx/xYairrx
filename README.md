@@ -10,6 +10,7 @@ Desarrollador de software trabajando en sistemas en producción.
 
 ### 🛠 Tecnologías
 - **Frontend:** React, Angular, TypeScript, JavaScript, Tailwind, Material UI
+- **Mobile:** React Native, Expo
 - **Backend:** Node.js, Express
 - **Bases de datos:** MongoDB, SQL Server
 - **Flujo de trabajo:** Git, CI/CD, Docker, SCRUM
