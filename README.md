@@ -17,11 +17,6 @@ Desarrollador de software trabajando en sistemas en producción.
 
 ---
 
-### 📚 En aprendizaje
-- React Native
-
----
-
 ### 🔗 Enlaces
 - [LinkedIn](https://linkedin.com/in/yaireag)
 - [GitHub](https://github.com/xYairrx)
